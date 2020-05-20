@@ -1,0 +1,26 @@
+Query ? 5 :
+The number of safe cities is 8
+
+Query ? 5 :
+The number of safe cities is 8
+
+Query ? 5 :
+The number of safe cities is 8
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 2 :
+The answer is the city with the index 2 
+- Information of the city 2 -
+-> Number of current patients : 49
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 2 :
+The answer is the city with the index 2 
+- Information of the city 2 -
+-> Number of current patients : 49
+-> Has recovered : 0
+-> Was dead : 0
+

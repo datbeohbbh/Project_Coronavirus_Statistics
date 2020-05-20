@@ -1,0 +1,56 @@
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 2 :
+The answer is the city with the index 9 
+- Information of the city 9 -
+-> Number of current patients : 431
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 2 :
+The answer is the city with the index 18 
+- Information of the city 18 -
+-> Number of current patients : 39
+-> Has recovered : 0
+-> Was dead : 56
+
+Query ? 6 :
+The city with the highest recovery is city with the index 9
+Quantity: 428 people
+
+Query ? 7 :
+The city with the highest death is city with the index 18
+Quantity: 56 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 9
+Quantity: 428 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 9
+Quantity: 428 people
+
+Query ? 4 5 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 111
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 5 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 111
+-> Has recovered : 0
+-> Was dead : 0
+

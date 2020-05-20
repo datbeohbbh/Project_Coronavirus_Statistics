@@ -1,0 +1,86 @@
+Query ? 5 :
+The number of safe cities is 29
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 1 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 48
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 48
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 3 :
+The answer is the city with the index 19 
+- Information of the city 19 -
+-> Number of current patients : 316
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 5
+Quantity: 32 people
+
+Query ? 4 1 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 16
+-> Has recovered : 32
+-> Was dead : 0
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 4 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 125
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 3 :
+The answer is the city with the index 24 
+- Information of the city 24 -
+-> Number of current patients : 62
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 5 :
+The answer is the city with the index 6 
+- Information of the city 6 -
+-> Number of current patients : 312
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 16
+-> Has recovered : 32
+-> Was dead : 0
+
+Query ? 4 5 :
+The answer is the city with the index 6 
+- Information of the city 6 -
+-> Number of current patients : 312
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 2 :
+The answer is the city with the index 2 
+- Information of the city 2 -
+-> Number of current patients : 19
+-> Has recovered : 0
+-> Was dead : 0
+

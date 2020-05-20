@@ -1,0 +1,52 @@
+Query ? 6 :
+The city with the highest recovery is city with the index 26
+Quantity: 296 people
+
+Query ? 4 2 :
+The answer is the city with the index 25 
+- Information of the city 25 -
+-> Number of current patients : 168
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 26
+Quantity: 197 people
+
+Query ? 4 6 :
+The answer is the city with the index 12 
+- Information of the city 12 -
+-> Number of current patients : 120
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 4 :
+The answer is the city with the index 3 
+- Information of the city 3 -
+-> Number of current patients : 32
+-> Has recovered : 0
+-> Was dead : 4
+
+Query ? 6 :
+The city with the highest recovery is city with the index 26
+Quantity: 296 people
+
+Query ? 7 :
+The city with the highest death is city with the index 26
+Quantity: 197 people
+
+Query ? 4 3 :
+The answer is the city with the index 24 
+- Information of the city 24 -
+-> Number of current patients : 22
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 26
+Quantity: 296 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 26
+Quantity: 296 people
+

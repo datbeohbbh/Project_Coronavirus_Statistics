@@ -1,0 +1,68 @@
+Query ? 4 1 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 121
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 3 :
+The answer is the city with the index 10 
+- Information of the city 10 -
+-> Number of current patients : 285
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 2 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 121
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 3 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 121
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 31 
+- Information of the city 31 -
+-> Number of current patients : 13
+-> Has recovered : 665
+-> Was dead : 0
+
+Query ? 4 8 :
+The answer is the city with the index 20 
+- Information of the city 20 -
+-> Number of current patients : 473
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 1 :
+The answer is the city with the index 31 
+- Information of the city 31 -
+-> Number of current patients : 13
+-> Has recovered : 665
+-> Was dead : 0
+
+Query ? 4 6 :
+The answer is the city with the index 6 
+- Information of the city 6 -
+-> Number of current patients : 426
+-> Has recovered : 0
+-> Was dead : 0
+

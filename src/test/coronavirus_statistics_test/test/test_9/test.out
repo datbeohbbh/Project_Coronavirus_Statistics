@@ -1,0 +1,2467 @@
+Query ? 5 :
+The number of safe cities is 339
+
+Query ? 5 :
+The number of safe cities is 339
+
+Query ? 7 :
+Currently, no deaths have been recorded
+
+Query ? 4 1 :
+The answer is the city with the index 238 
+- Information of the city 238 -
+-> Number of current patients : 4233
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 6 :
+The answer is the city with the index 59 
+- Information of the city 59 -
+-> Number of current patients : 9176
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 3 :
+The answer is the city with the index 48 
+- Information of the city 48 -
+-> Number of current patients : 4860
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 7 :
+The answer is the city with the index 59 
+- Information of the city 59 -
+-> Number of current patients : 9176
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 240
+Quantity: 3737 people
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 7 :
+The city with the highest death is city with the index 240
+Quantity: 3737 people
+
+Query ? 4 12 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 10326
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 314 
+- Information of the city 314 -
+-> Number of current patients : 485
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 240
+Quantity: 3737 people
+
+Query ? 4 16 :
+The answer is the city with the index 181 
+- Information of the city 181 -
+-> Number of current patients : 9631
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 6 :
+The answer is the city with the index 110 
+- Information of the city 110 -
+-> Number of current patients : 3915
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 240
+Quantity: 3737 people
+
+Query ? 7 :
+The city with the highest death is city with the index 240
+Quantity: 3737 people
+
+Query ? 4 24 :
+The answer is the city with the index 218 
+- Information of the city 218 -
+-> Number of current patients : 9694
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 26 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 10326
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 31 :
+The answer is the city with the index 125 
+- Information of the city 125 -
+-> Number of current patients : 11858
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 10 :
+The answer is the city with the index 110 
+- Information of the city 110 -
+-> Number of current patients : 3915
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 20 :
+The answer is the city with the index 72 
+- Information of the city 72 -
+-> Number of current patients : 7547
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 41 :
+The answer is the city with the index 76 
+- Information of the city 76 -
+-> Number of current patients : 14509
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 38 :
+The answer is the city with the index 112 
+- Information of the city 112 -
+-> Number of current patients : 13119
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 28 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 10326
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 40 :
+The answer is the city with the index 157 
+- Information of the city 157 -
+-> Number of current patients : 11793
+-> Has recovered : 0
+-> Was dead : 1585
+
+Query ? 4 47 :
+The answer is the city with the index 76 
+- Information of the city 76 -
+-> Number of current patients : 14509
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 32 :
+The answer is the city with the index 129 
+- Information of the city 129 -
+-> Number of current patients : 9833
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 67 :
+The answer is the city with the index 76 
+- Information of the city 76 -
+-> Number of current patients : 14509
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 12 :
+The answer is the city with the index 3 
+- Information of the city 3 -
+-> Number of current patients : 2229
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 26 :
+The answer is the city with the index 239 
+- Information of the city 239 -
+-> Number of current patients : 6301
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 60 :
+The answer is the city with the index 214 
+- Information of the city 214 -
+-> Number of current patients : 11530
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 10 :
+The answer is the city with the index 301 
+- Information of the city 301 -
+-> Number of current patients : 1801
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 53 :
+The answer is the city with the index 187 
+- Information of the city 187 -
+-> Number of current patients : 10926
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 24 :
+The answer is the city with the index 84 
+- Information of the city 84 -
+-> Number of current patients : 5247
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 260
+Quantity: 3007 people
+
+Query ? 4 37 :
+The answer is the city with the index 72 
+- Information of the city 72 -
+-> Number of current patients : 7547
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 46 :
+The answer is the city with the index 218 
+- Information of the city 218 -
+-> Number of current patients : 9694
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 79 :
+The answer is the city with the index 76 
+- Information of the city 76 -
+-> Number of current patients : 14509
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 75 :
+The answer is the city with the index 11 
+- Information of the city 11 -
+-> Number of current patients : 13929
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 7 :
+The answer is the city with the index 201 
+- Information of the city 201 -
+-> Number of current patients : 1443
+-> Has recovered : 0
+-> Was dead : 8223
+
+Query ? 4 25 :
+The answer is the city with the index 84 
+- Information of the city 84 -
+-> Number of current patients : 5247
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 49 :
+The answer is the city with the index 284 
+- Information of the city 284 -
+-> Number of current patients : 9696
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 4 53 :
+The answer is the city with the index 136 
+- Information of the city 136 -
+-> Number of current patients : 10176
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 70 :
+The answer is the city with the index 143 
+- Information of the city 143 -
+-> Number of current patients : 11361
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 53 :
+The answer is the city with the index 120 
+- Information of the city 120 -
+-> Number of current patients : 9321
+-> Has recovered : 0
+-> Was dead : 2180
+
+Query ? 7 :
+The city with the highest death is city with the index 201
+Quantity: 8223 people
+
+Query ? 4 36 :
+The answer is the city with the index 138 
+- Information of the city 138 -
+-> Number of current patients : 6458
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 18 :
+The answer is the city with the index 293 
+- Information of the city 293 -
+-> Number of current patients : 2858
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 65 :
+The answer is the city with the index 316 
+- Information of the city 316 -
+-> Number of current patients : 10644
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 4 58 :
+The answer is the city with the index 284 
+- Information of the city 284 -
+-> Number of current patients : 9696
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 109
+Quantity: 5313 people
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 4 60 :
+The answer is the city with the index 218 
+- Information of the city 218 -
+-> Number of current patients : 9694
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 47 :
+The answer is the city with the index 145 
+- Information of the city 145 -
+-> Number of current patients : 7499
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 11 :
+The answer is the city with the index 201 
+- Information of the city 201 -
+-> Number of current patients : 1443
+-> Has recovered : 0
+-> Was dead : 8223
+
+Query ? 4 35 :
+The answer is the city with the index 104 
+- Information of the city 104 -
+-> Number of current patients : 4983
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 10 :
+The answer is the city with the index 116 
+- Information of the city 116 -
+-> Number of current patients : 1198
+-> Has recovered : 0
+-> Was dead : 11435
+
+Query ? 4 14 :
+The answer is the city with the index 139 
+- Information of the city 139 -
+-> Number of current patients : 1504
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 72 :
+The answer is the city with the index 316 
+- Information of the city 316 -
+-> Number of current patients : 10644
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 4 88 :
+The answer is the city with the index 210 
+- Information of the city 210 -
+-> Number of current patients : 11890
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 324
+Quantity: 6693 people
+
+Query ? 4 78 :
+The answer is the city with the index 317 
+- Information of the city 317 -
+-> Number of current patients : 11132
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 4 95 :
+The answer is the city with the index 12 
+- Information of the city 12 -
+-> Number of current patients : 12756
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 106 :
+The answer is the city with the index 195 
+- Information of the city 195 -
+-> Number of current patients : 14374
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 80 :
+The answer is the city with the index 70 
+- Information of the city 70 -
+-> Number of current patients : 11174
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 101 :
+The answer is the city with the index 331 
+- Information of the city 331 -
+-> Number of current patients : 13881
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 78 :
+The answer is the city with the index 296 
+- Information of the city 296 -
+-> Number of current patients : 10487
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 50 :
+The answer is the city with the index 111 
+- Information of the city 111 -
+-> Number of current patients : 6732
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 4 13 :
+The answer is the city with the index 127 
+- Information of the city 127 -
+-> Number of current patients : 1187
+-> Has recovered : 0
+-> Was dead : 10012
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 7 :
+The city with the highest death is city with the index 116
+Quantity: 11435 people
+
+Query ? 4 11 :
+The answer is the city with the index 123 
+- Information of the city 123 -
+-> Number of current patients : 764
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 154
+Quantity: 8688 people
+
+Query ? 4 10 :
+The answer is the city with the index 302 
+- Information of the city 302 -
+-> Number of current patients : 743
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 154
+Quantity: 8688 people
+
+Query ? 4 64 :
+The answer is the city with the index 281 
+- Information of the city 281 -
+-> Number of current patients : 8766
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 154
+Quantity: 8688 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 9 :
+The answer is the city with the index 92 
+- Information of the city 92 -
+-> Number of current patients : 521
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 110 :
+The answer is the city with the index 195 
+- Information of the city 195 -
+-> Number of current patients : 14374
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 53 :
+The answer is the city with the index 138 
+- Information of the city 138 -
+-> Number of current patients : 6458
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 154
+Quantity: 8688 people
+
+Query ? 4 63 :
+The answer is the city with the index 10 
+- Information of the city 10 -
+-> Number of current patients : 7920
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 45 :
+The answer is the city with the index 181 
+- Information of the city 181 -
+-> Number of current patients : 4604
+-> Has recovered : 0
+-> Was dead : 5027
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 81 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 10326
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 18 :
+The answer is the city with the index 235 
+- Information of the city 235 -
+-> Number of current patients : 927
+-> Has recovered : 0
+-> Was dead : 1114
+
+Query ? 4 84 :
+The answer is the city with the index 62 
+- Information of the city 62 -
+-> Number of current patients : 10350
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 112 :
+The answer is the city with the index 220 
+- Information of the city 220 -
+-> Number of current patients : 13990
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 71 :
+The answer is the city with the index 91 
+- Information of the city 91 -
+-> Number of current patients : 8801
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 92 :
+The answer is the city with the index 21 
+- Information of the city 21 -
+-> Number of current patients : 10885
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 101 :
+The answer is the city with the index 262 
+- Information of the city 262 -
+-> Number of current patients : 11512
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 12 :
+The answer is the city with the index 301 
+- Information of the city 301 -
+-> Number of current patients : 554
+-> Has recovered : 0
+-> Was dead : 1247
+
+Query ? 6 :
+The city with the highest recovery is city with the index 154
+Quantity: 8688 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 58 :
+The answer is the city with the index 10 
+- Information of the city 10 -
+-> Number of current patients : 6024
+-> Has recovered : 1896
+-> Was dead : 0
+
+Query ? 4 8 :
+The answer is the city with the index 247 
+- Information of the city 247 -
+-> Number of current patients : 220
+-> Has recovered : 141
+-> Was dead : 2025
+
+Query ? 4 92 :
+The answer is the city with the index 296 
+- Information of the city 296 -
+-> Number of current patients : 10487
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 10550 people
+
+Query ? 4 55 :
+The answer is the city with the index 84 
+- Information of the city 84 -
+-> Number of current patients : 5247
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 109 :
+The answer is the city with the index 210 
+- Information of the city 210 -
+-> Number of current patients : 11890
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 101 :
+The answer is the city with the index 70 
+- Information of the city 70 -
+-> Number of current patients : 11174
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 24 :
+The answer is the city with the index 201 
+- Information of the city 201 -
+-> Number of current patients : 1443
+-> Has recovered : 0
+-> Was dead : 8223
+
+Query ? 4 65 :
+The answer is the city with the index 138 
+- Information of the city 138 -
+-> Number of current patients : 6458
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 66 :
+The answer is the city with the index 239 
+- Information of the city 239 -
+-> Number of current patients : 6301
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 114 :
+The answer is the city with the index 11 
+- Information of the city 11 -
+-> Number of current patients : 12451
+-> Has recovered : 9175
+-> Was dead : 0
+
+Query ? 4 98 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 10326
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 66 :
+The answer is the city with the index 10 
+- Information of the city 10 -
+-> Number of current patients : 6024
+-> Has recovered : 1896
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 57 :
+The answer is the city with the index 310 
+- Information of the city 310 -
+-> Number of current patients : 4509
+-> Has recovered : 0
+-> Was dead : 1723
+
+Query ? 4 10 :
+The answer is the city with the index 247 
+- Information of the city 247 -
+-> Number of current patients : 220
+-> Has recovered : 141
+-> Was dead : 2025
+
+Query ? 4 2 :
+The answer is the city with the index 109 
+- Information of the city 109 -
+-> Number of current patients : 12
+-> Has recovered : 5313
+-> Was dead : 8
+
+Query ? 4 19 :
+The answer is the city with the index 1 
+- Information of the city 1 -
+-> Number of current patients : 721
+-> Has recovered : 0
+-> Was dead : 549
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 58 :
+The answer is the city with the index 238 
+- Information of the city 238 -
+-> Number of current patients : 4233
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 71 :
+The answer is the city with the index 330 
+- Information of the city 330 -
+-> Number of current patients : 6206
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 69 :
+The answer is the city with the index 198 
+- Information of the city 198 -
+-> Number of current patients : 5525
+-> Has recovered : 3215
+-> Was dead : 3869
+
+Query ? 4 45 :
+The answer is the city with the index 316 
+- Information of the city 316 -
+-> Number of current patients : 2875
+-> Has recovered : 0
+-> Was dead : 7769
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 61 :
+The answer is the city with the index 181 
+- Information of the city 181 -
+-> Number of current patients : 4604
+-> Has recovered : 0
+-> Was dead : 5027
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 83 :
+The answer is the city with the index 152 
+- Information of the city 152 -
+-> Number of current patients : 7509
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 21 :
+The answer is the city with the index 299 
+- Information of the city 299 -
+-> Number of current patients : 830
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 68 :
+The answer is the city with the index 198 
+- Information of the city 198 -
+-> Number of current patients : 5525
+-> Has recovered : 3215
+-> Was dead : 3869
+
+Query ? 4 1 :
+The answer is the city with the index 29 
+- Information of the city 29 -
+-> Number of current patients : 6
+-> Has recovered : 0
+-> Was dead : 415
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 127 :
+The answer is the city with the index 217 
+- Information of the city 217 -
+-> Number of current patients : 13674
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 4 :
+The answer is the city with the index 262 
+- Information of the city 262 -
+-> Number of current patients : 94
+-> Has recovered : 11418
+-> Was dead : 0
+
+Query ? 4 37 :
+The answer is the city with the index 111 
+- Information of the city 111 -
+-> Number of current patients : 2095
+-> Has recovered : 4637
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 26 :
+The answer is the city with the index 189 
+- Information of the city 189 -
+-> Number of current patients : 1502
+-> Has recovered : 3126
+-> Was dead : 0
+
+Query ? 4 97 :
+The answer is the city with the index 308 
+- Information of the city 308 -
+-> Number of current patients : 8864
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 87 :
+The answer is the city with the index 167 
+- Information of the city 167 -
+-> Number of current patients : 6784
+-> Has recovered : 0
+-> Was dead : 950
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 33 :
+The answer is the city with the index 44 
+- Information of the city 44 -
+-> Number of current patients : 1577
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 12 :
+The answer is the city with the index 247 
+- Information of the city 247 -
+-> Number of current patients : 220
+-> Has recovered : 141
+-> Was dead : 2025
+
+Query ? 4 84 :
+The answer is the city with the index 120 
+- Information of the city 120 -
+-> Number of current patients : 6524
+-> Has recovered : 0
+-> Was dead : 4977
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 12 :
+The answer is the city with the index 247 
+- Information of the city 247 -
+-> Number of current patients : 220
+-> Has recovered : 141
+-> Was dead : 2025
+
+Query ? 4 49 :
+The answer is the city with the index 293 
+- Information of the city 293 -
+-> Number of current patients : 2858
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 90 :
+The answer is the city with the index 12 
+- Information of the city 12 -
+-> Number of current patients : 6982
+-> Has recovered : 5774
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 92 :
+The answer is the city with the index 97 
+- Information of the city 97 -
+-> Number of current patients : 7218
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 96 :
+The answer is the city with the index 216 
+- Information of the city 216 -
+-> Number of current patients : 7518
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 103 :
+The answer is the city with the index 91 
+- Information of the city 91 -
+-> Number of current patients : 8801
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 119 :
+The answer is the city with the index 70 
+- Information of the city 70 -
+-> Number of current patients : 11174
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 78 :
+The answer is the city with the index 229 
+- Information of the city 229 -
+-> Number of current patients : 5393
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 81 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 5887
+-> Has recovered : 4439
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 100 :
+The answer is the city with the index 327 
+- Information of the city 327 -
+-> Number of current patients : 7868
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 22 :
+The answer is the city with the index 296 
+- Information of the city 296 -
+-> Number of current patients : 616
+-> Has recovered : 0
+-> Was dead : 9871
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 152 :
+The answer is the city with the index 287 
+- Information of the city 287 -
+-> Number of current patients : 15209
+-> Has recovered : 0
+-> Was dead : 316
+
+Query ? 4 84 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 5887
+-> Has recovered : 4439
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 4 146 :
+The answer is the city with the index 251 
+- Information of the city 251 -
+-> Number of current patients : 14486
+-> Has recovered : 0
+-> Was dead : 508
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 262
+Quantity: 11418 people
+
+Query ? 4 42 :
+The answer is the city with the index 44 
+- Information of the city 44 -
+-> Number of current patients : 1577
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 298
+Quantity: 12487 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 1 :
+The answer is the city with the index 296 
+- Information of the city 296 -
+-> Number of current patients : 5
+-> Has recovered : 0
+-> Was dead : 10482
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 3 :
+The answer is the city with the index 109 
+- Information of the city 109 -
+-> Number of current patients : 12
+-> Has recovered : 5313
+-> Was dead : 8
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 148 :
+The answer is the city with the index 249 
+- Information of the city 249 -
+-> Number of current patients : 14233
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 120 :
+The answer is the city with the index 242 
+- Information of the city 242 -
+-> Number of current patients : 10089
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 18 :
+The answer is the city with the index 3 
+- Information of the city 3 -
+-> Number of current patients : 329
+-> Has recovered : 0
+-> Was dead : 1900
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 154 :
+The answer is the city with the index 92 
+- Information of the city 92 -
+-> Number of current patients : 14708
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 81 :
+The answer is the city with the index 126 
+- Information of the city 126 -
+-> Number of current patients : 4932
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 154 :
+The answer is the city with the index 251 
+- Information of the city 251 -
+-> Number of current patients : 14486
+-> Has recovered : 0
+-> Was dead : 508
+
+Query ? 4 61 :
+The answer is the city with the index 238 
+- Information of the city 238 -
+-> Number of current patients : 2282
+-> Has recovered : 0
+-> Was dead : 1951
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 73 :
+The answer is the city with the index 330 
+- Information of the city 330 -
+-> Number of current patients : 3616
+-> Has recovered : 2590
+-> Was dead : 0
+
+Query ? 4 19 :
+The answer is the city with the index 197 
+- Information of the city 197 -
+-> Number of current patients : 242
+-> Has recovered : 157
+-> Was dead : 14398
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 40 :
+The answer is the city with the index 232 
+- Information of the city 232 -
+-> Number of current patients : 1278
+-> Has recovered : 0
+-> Was dead : 2567
+
+Query ? 4 79 :
+The answer is the city with the index 237 
+- Information of the city 237 -
+-> Number of current patients : 3865
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 142 :
+The answer is the city with the index 80 
+- Information of the city 80 -
+-> Number of current patients : 11856
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 119 :
+The answer is the city with the index 52 
+- Information of the city 52 -
+-> Number of current patients : 8993
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 103 :
+The answer is the city with the index 12 
+- Information of the city 12 -
+-> Number of current patients : 6982
+-> Has recovered : 5774
+-> Was dead : 0
+
+Query ? 4 30 :
+The answer is the city with the index 1 
+- Information of the city 1 -
+-> Number of current patients : 721
+-> Has recovered : 0
+-> Was dead : 549
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 124 :
+The answer is the city with the index 279 
+- Information of the city 279 -
+-> Number of current patients : 9650
+-> Has recovered : 1601
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 122 :
+The answer is the city with the index 149 
+- Information of the city 149 -
+-> Number of current patients : 9604
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 29 :
+The answer is the city with the index 181 
+- Information of the city 181 -
+-> Number of current patients : 694
+-> Has recovered : 0
+-> Was dead : 8937
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 98 :
+The answer is the city with the index 174 
+- Information of the city 174 -
+-> Number of current patients : 5992
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 21 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 326
+-> Has recovered : 0
+-> Was dead : 974
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 153 :
+The answer is the city with the index 37 
+- Information of the city 37 -
+-> Number of current patients : 12929
+-> Has recovered : 0
+-> Was dead : 1980
+
+Query ? 4 6 :
+The answer is the city with the index 118 
+- Information of the city 118 -
+-> Number of current patients : 48
+-> Has recovered : 0
+-> Was dead : 7061
+
+Query ? 4 24 :
+The answer is the city with the index 301 
+- Information of the city 301 -
+-> Number of current patients : 410
+-> Has recovered : 0
+-> Was dead : 1391
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 167 :
+The answer is the city with the index 249 
+- Information of the city 249 -
+-> Number of current patients : 14233
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 164 :
+The answer is the city with the index 220 
+- Information of the city 220 -
+-> Number of current patients : 13990
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 287
+Quantity: 13781 people
+
+Query ? 4 34 :
+The answer is the city with the index 181 
+- Information of the city 181 -
+-> Number of current patients : 694
+-> Has recovered : 0
+-> Was dead : 8937
+
+Query ? 4 94 :
+The answer is the city with the index 310 
+- Information of the city 310 -
+-> Number of current patients : 4509
+-> Has recovered : 0
+-> Was dead : 1723
+
+Query ? 4 173 :
+The answer is the city with the index 97 
+- Information of the city 97 -
+-> Number of current patients : 15561
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 15 :
+The answer is the city with the index 49 
+- Information of the city 49 -
+-> Number of current patients : 207
+-> Has recovered : 7806
+-> Was dead : 0
+
+Query ? 4 88 :
+The answer is the city with the index 145 
+- Information of the city 145 -
+-> Number of current patients : 3778
+-> Has recovered : 3721
+-> Was dead : 0
+
+Query ? 4 160 :
+The answer is the city with the index 80 
+- Information of the city 80 -
+-> Number of current patients : 11856
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 152 :
+The answer is the city with the index 246 
+- Information of the city 246 -
+-> Number of current patients : 10930
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 52 :
+The answer is the city with the index 322 
+- Information of the city 322 -
+-> Number of current patients : 1433
+-> Has recovered : 2382
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 26 :
+The answer is the city with the index 62 
+- Information of the city 62 -
+-> Number of current patients : 370
+-> Has recovered : 132
+-> Was dead : 9848
+
+Query ? 4 47 :
+The answer is the city with the index 260 
+- Information of the city 260 -
+-> Number of current patients : 1116
+-> Has recovered : 6818
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 68 :
+The answer is the city with the index 276 
+- Information of the city 276 -
+-> Number of current patients : 1891
+-> Has recovered : 1775
+-> Was dead : 0
+
+Query ? 4 22 :
+The answer is the city with the index 51 
+- Information of the city 51 -
+-> Number of current patients : 260
+-> Has recovered : 0
+-> Was dead : 8986
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 56 :
+The answer is the city with the index 322 
+- Information of the city 322 -
+-> Number of current patients : 1433
+-> Has recovered : 2382
+-> Was dead : 0
+
+Query ? 4 175 :
+The answer is the city with the index 97 
+- Information of the city 97 -
+-> Number of current patients : 15561
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 88 :
+The answer is the city with the index 330 
+- Information of the city 330 -
+-> Number of current patients : 3616
+-> Has recovered : 2590
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 116 :
+The answer is the city with the index 272 
+- Information of the city 272 -
+-> Number of current patients : 6130
+-> Has recovered : 85
+-> Was dead : 0
+
+Query ? 4 12 :
+The answer is the city with the index 284 
+- Information of the city 284 -
+-> Number of current patients : 104
+-> Has recovered : 9592
+-> Was dead : 0
+
+Query ? 4 9 :
+The answer is the city with the index 262 
+- Information of the city 262 -
+-> Number of current patients : 94
+-> Has recovered : 11418
+-> Was dead : 0
+
+Query ? 4 56 :
+The answer is the city with the index 322 
+- Information of the city 322 -
+-> Number of current patients : 1433
+-> Has recovered : 2382
+-> Was dead : 0
+
+Query ? 4 126 :
+The answer is the city with the index 104 
+- Information of the city 104 -
+-> Number of current patients : 7442
+-> Has recovered : 0
+-> Was dead : 5758
+
+Query ? 4 133 :
+The answer is the city with the index 91 
+- Information of the city 91 -
+-> Number of current patients : 8801
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 163 :
+The answer is the city with the index 5 
+- Information of the city 5 -
+-> Number of current patients : 13076
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 93 :
+The answer is the city with the index 239 
+- Information of the city 239 -
+-> Number of current patients : 3828
+-> Has recovered : 0
+-> Was dead : 2473
+
+Query ? 4 68 :
+The answer is the city with the index 276 
+- Information of the city 276 -
+-> Number of current patients : 1891
+-> Has recovered : 1775
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 116 :
+The answer is the city with the index 272 
+- Information of the city 272 -
+-> Number of current patients : 6130
+-> Has recovered : 85
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 151 :
+The answer is the city with the index 41 
+- Information of the city 41 -
+-> Number of current patients : 10809
+-> Has recovered : 5238
+-> Was dead : 0
+
+Query ? 4 120 :
+The answer is the city with the index 200 
+- Information of the city 200 -
+-> Number of current patients : 6606
+-> Has recovered : 0
+-> Was dead : 1958
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 109 :
+The answer is the city with the index 11 
+- Information of the city 11 -
+-> Number of current patients : 5441
+-> Has recovered : 9452
+-> Was dead : 6733
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 129 :
+The answer is the city with the index 53 
+- Information of the city 53 -
+-> Number of current patients : 7560
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 5 :
+The answer is the city with the index 271 
+- Information of the city 271 -
+-> Number of current patients : 21
+-> Has recovered : 10053
+-> Was dead : 1172
+
+Query ? 4 42 :
+The answer is the city with the index 28 
+- Information of the city 28 -
+-> Number of current patients : 848
+-> Has recovered : 9455
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 159 :
+The answer is the city with the index 168 
+- Information of the city 168 -
+-> Number of current patients : 11436
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 147 :
+The answer is the city with the index 217 
+- Information of the city 217 -
+-> Number of current patients : 10100
+-> Has recovered : 0
+-> Was dead : 3574
+
+Query ? 4 99 :
+The answer is the city with the index 156 
+- Information of the city 156 -
+-> Number of current patients : 4579
+-> Has recovered : 0
+-> Was dead : 2876
+
+Query ? 4 50 :
+The answer is the city with the index 157 
+- Information of the city 157 -
+-> Number of current patients : 1165
+-> Has recovered : 0
+-> Was dead : 12213
+
+Query ? 4 29 :
+The answer is the city with the index 99 
+- Information of the city 99 -
+-> Number of current patients : 480
+-> Has recovered : 2414
+-> Was dead : 1895
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 107 :
+The answer is the city with the index 89 
+- Information of the city 89 -
+-> Number of current patients : 5295
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 86 :
+The answer is the city with the index 110 
+- Information of the city 110 -
+-> Number of current patients : 3337
+-> Has recovered : 0
+-> Was dead : 578
+
+Query ? 4 175 :
+The answer is the city with the index 97 
+- Information of the city 97 -
+-> Number of current patients : 15561
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 54 :
+The answer is the city with the index 30 
+- Information of the city 30 -
+-> Number of current patients : 1374
+-> Has recovered : 481
+-> Was dead : 6930
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 153 :
+The answer is the city with the index 246 
+- Information of the city 246 -
+-> Number of current patients : 10930
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 79 :
+The answer is the city with the index 214 
+- Information of the city 214 -
+-> Number of current patients : 2640
+-> Has recovered : 2724
+-> Was dead : 6166
+
+Query ? 4 92 :
+The answer is the city with the index 145 
+- Information of the city 145 -
+-> Number of current patients : 3778
+-> Has recovered : 3721
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 17 :
+The answer is the city with the index 164 
+- Information of the city 164 -
+-> Number of current patients : 219
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 84 :
+The answer is the city with the index 316 
+- Information of the city 316 -
+-> Number of current patients : 2875
+-> Has recovered : 0
+-> Was dead : 7769
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 156 :
+The answer is the city with the index 70 
+- Information of the city 70 -
+-> Number of current patients : 11174
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 11 :
+The answer is the city with the index 234 
+- Information of the city 234 -
+-> Number of current patients : 102
+-> Has recovered : 332
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 131 :
+The answer is the city with the index 327 
+- Information of the city 327 -
+-> Number of current patients : 7868
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 175 :
+The answer is the city with the index 97 
+- Information of the city 97 -
+-> Number of current patients : 15561
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 159 :
+The answer is the city with the index 168 
+- Information of the city 168 -
+-> Number of current patients : 11436
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 30 :
+The answer is the city with the index 201 
+- Information of the city 201 -
+-> Number of current patients : 573
+-> Has recovered : 0
+-> Was dead : 9093
+
+Query ? 4 6 :
+The answer is the city with the index 118 
+- Information of the city 118 -
+-> Number of current patients : 48
+-> Has recovered : 0
+-> Was dead : 7061
+
+Query ? 4 134 :
+The answer is the city with the index 122 
+- Information of the city 122 -
+-> Number of current patients : 8813
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 166 :
+The answer is the city with the index 332 
+- Information of the city 332 -
+-> Number of current patients : 13711
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 46 :
+The answer is the city with the index 52 
+- Information of the city 52 -
+-> Number of current patients : 1060
+-> Has recovered : 7933
+-> Was dead : 0
+
+Query ? 4 31 :
+The answer is the city with the index 134 
+- Information of the city 134 -
+-> Number of current patients : 579
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 140 :
+The answer is the city with the index 149 
+- Information of the city 149 -
+-> Number of current patients : 9604
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 110 :
+The answer is the city with the index 198 
+- Information of the city 198 -
+-> Number of current patients : 5525
+-> Has recovered : 3215
+-> Was dead : 3869
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 36 :
+The answer is the city with the index 189 
+- Information of the city 189 -
+-> Number of current patients : 667
+-> Has recovered : 3352
+-> Was dead : 609
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 30 :
+The answer is the city with the index 201 
+- Information of the city 201 -
+-> Number of current patients : 573
+-> Has recovered : 0
+-> Was dead : 9093
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 76 :
+The answer is the city with the index 45 
+- Information of the city 45 -
+-> Number of current patients : 2432
+-> Has recovered : 4539
+-> Was dead : 3020
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 15 :
+The answer is the city with the index 49 
+- Information of the city 49 -
+-> Number of current patients : 207
+-> Has recovered : 7806
+-> Was dead : 0
+
+Query ? 4 167 :
+The answer is the city with the index 199 
+- Information of the city 199 -
+-> Number of current patients : 13844
+-> Has recovered : 0
+-> Was dead : 1014
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 42 :
+The answer is the city with the index 28 
+- Information of the city 28 -
+-> Number of current patients : 848
+-> Has recovered : 9455
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 57 :
+The answer is the city with the index 139 
+- Information of the city 139 -
+-> Number of current patients : 1504
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 173 :
+The answer is the city with the index 32 
+- Information of the city 32 -
+-> Number of current patients : 14621
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 120 :
+The answer is the city with the index 200 
+- Information of the city 200 -
+-> Number of current patients : 6606
+-> Has recovered : 0
+-> Was dead : 1958
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 157 :
+The answer is the city with the index 258 
+- Information of the city 258 -
+-> Number of current patients : 11284
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 10 :
+The answer is the city with the index 187 
+- Information of the city 187 -
+-> Number of current patients : 94
+-> Has recovered : 2607
+-> Was dead : 8225
+
+Query ? 4 113 :
+The answer is the city with the index 174 
+- Information of the city 174 -
+-> Number of current patients : 5992
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 174 :
+The answer is the city with the index 92 
+- Information of the city 92 -
+-> Number of current patients : 14708
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 130 :
+The answer is the city with the index 60 
+- Information of the city 60 -
+-> Number of current patients : 7564
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 173 :
+The answer is the city with the index 32 
+- Information of the city 32 -
+-> Number of current patients : 14621
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 50 :
+The answer is the city with the index 157 
+- Information of the city 157 -
+-> Number of current patients : 1165
+-> Has recovered : 0
+-> Was dead : 12213
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 166 :
+The answer is the city with the index 332 
+- Information of the city 332 -
+-> Number of current patients : 13711
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 161 :
+The answer is the city with the index 80 
+- Information of the city 80 -
+-> Number of current patients : 11856
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 145 :
+The answer is the city with the index 17 
+- Information of the city 17 -
+-> Number of current patients : 10029
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 158 :
+The answer is the city with the index 143 
+- Information of the city 143 -
+-> Number of current patients : 11361
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 43 :
+The answer is the city with the index 235 
+- Information of the city 235 -
+-> Number of current patients : 927
+-> Has recovered : 0
+-> Was dead : 1114
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 28 :
+The answer is the city with the index 195 
+- Information of the city 195 -
+-> Number of current patients : 455
+-> Has recovered : 0
+-> Was dead : 13919
+
+Query ? 4 72 :
+The answer is the city with the index 238 
+- Information of the city 238 -
+-> Number of current patients : 2282
+-> Has recovered : 0
+-> Was dead : 1951
+
+Query ? 4 22 :
+The answer is the city with the index 51 
+- Information of the city 51 -
+-> Number of current patients : 260
+-> Has recovered : 0
+-> Was dead : 8986
+
+Query ? 4 13 :
+The answer is the city with the index 324 
+- Information of the city 324 -
+-> Number of current patients : 114
+-> Has recovered : 9207
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 7 :
+The answer is the city with the index 320 
+- Information of the city 320 -
+-> Number of current patients : 80
+-> Has recovered : 1941
+-> Was dead : 72
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 62 :
+The answer is the city with the index 10 
+- Information of the city 10 -
+-> Number of current patients : 1596
+-> Has recovered : 5663
+-> Was dead : 661
+
+Query ? 4 66 :
+The answer is the city with the index 64 
+- Information of the city 64 -
+-> Number of current patients : 1747
+-> Has recovered : 0
+-> Was dead : 4715
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 128 :
+The answer is the city with the index 216 
+- Information of the city 216 -
+-> Number of current patients : 7518
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 77 :
+The answer is the city with the index 159 
+- Information of the city 159 -
+-> Number of current patients : 2449
+-> Has recovered : 2838
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 292
+Quantity: 13812 people
+
+Query ? 4 53 :
+The answer is the city with the index 128 
+- Information of the city 128 -
+-> Number of current patients : 1365
+-> Has recovered : 0
+-> Was dead : 3673
+
+Query ? 4 48 :
+The answer is the city with the index 260 
+- Information of the city 260 -
+-> Number of current patients : 1116
+-> Has recovered : 6818
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 80 :
+The answer is the city with the index 254 
+- Information of the city 254 -
+-> Number of current patients : 2673
+-> Has recovered : 8421
+-> Was dead : 659
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 110 :
+The answer is the city with the index 198 
+- Information of the city 198 -
+-> Number of current patients : 5525
+-> Has recovered : 3215
+-> Was dead : 3869
+
+Query ? 4 75 :
+The answer is the city with the index 131 
+- Information of the city 131 -
+-> Number of current patients : 2431
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 35 :
+The answer is the city with the index 240 
+- Information of the city 240 -
+-> Number of current patients : 665
+-> Has recovered : 0
+-> Was dead : 3737
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 151 :
+The answer is the city with the index 41 
+- Information of the city 41 -
+-> Number of current patients : 10809
+-> Has recovered : 5238
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 197
+Quantity: 14398 people
+
+Query ? 4 112 :
+The answer is the city with the index 223 
+- Information of the city 223 -
+-> Number of current patients : 5887
+-> Has recovered : 4439
+-> Was dead : 0
+
+Query ? 4 59 :
+The answer is the city with the index 312 
+- Information of the city 312 -
+-> Number of current patients : 1544
+-> Has recovered : 0
+-> Was dead : 0
+

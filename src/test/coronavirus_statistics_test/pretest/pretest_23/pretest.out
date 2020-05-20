@@ -1,0 +1,58 @@
+Query ? 5 :
+The number of safe cities is 26
+
+Query ? 5 :
+The number of safe cities is 26
+
+Query ? 4 4 :
+The answer is the city with the index 26 
+- Information of the city 26 -
+-> Number of current patients : 291
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 12
+Quantity: 413 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 3
+Quantity: 247 people
+
+Query ? 7 :
+The city with the highest death is city with the index 12
+Quantity: 413 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 3
+Quantity: 247 people
+
+Query ? 4 5 :
+The answer is the city with the index 24 
+- Information of the city 24 -
+-> Number of current patients : 236
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 5 :
+The answer is the city with the index 24 
+- Information of the city 24 -
+-> Number of current patients : 236
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 12 
+- Information of the city 12 -
+-> Number of current patients : 45
+-> Has recovered : 0
+-> Was dead : 413
+
+Query ? 7 :
+The city with the highest death is city with the index 12
+Quantity: 413 people
+
+Query ? 6 :
+The city with the highest recovery is city with the index 3
+Quantity: 247 people
+

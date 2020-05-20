@@ -1,0 +1,88 @@
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 4 2 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 433
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 7 
+- Information of the city 7 -
+-> Number of current patients : 241
+-> Has recovered : 0
+-> Was dead : 49
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 6 :
+Currently, no recovery cases have been recorded
+
+Query ? 6 :
+The city with the highest recovery is city with the index 13
+Quantity: 399 people
+
+Query ? 7 :
+The city with the highest death is city with the index 16
+Quantity: 167 people
+
+Query ? 4 3 :
+The answer is the city with the index 7 
+- Information of the city 7 -
+-> Number of current patients : 37
+-> Has recovered : 0
+-> Was dead : 253
+
+Query ? 4 5 :
+The answer is the city with the index 14 
+- Information of the city 14 -
+-> Number of current patients : 162
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 13
+Quantity: 399 people
+
+Query ? 4 3 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 34
+-> Has recovered : 399
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 13
+Quantity: 399 people
+
+Query ? 4 1 :
+The answer is the city with the index 7 
+- Information of the city 7 -
+-> Number of current patients : 5
+-> Has recovered : 32
+-> Was dead : 253
+
+Query ? 4 3 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 34
+-> Has recovered : 399
+-> Was dead : 0
+
+Query ? 4 6 :
+The answer is the city with the index 17 
+- Information of the city 17 -
+-> Number of current patients : 358
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 4 :
+The answer is the city with the index 16 
+- Information of the city 16 -
+-> Number of current patients : 55
+-> Has recovered : 63
+-> Was dead : 167
+

@@ -1,0 +1,61 @@
+Query ? 4 1 :
+The answer is the city with the index 22 
+- Information of the city 22 -
+-> Number of current patients : 254
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 1 :
+The answer is the city with the index 13 
+- Information of the city 13 -
+-> Number of current patients : 119
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 5 :
+The answer is the city with the index 22 
+- Information of the city 22 -
+-> Number of current patients : 254
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 6 :
+The city with the highest recovery is city with the index 13
+Quantity: 79 people
+
+Query ? 7 :
+The city with the highest death is city with the index 2
+Quantity: 3 people
+
+Query ? 4 5 :
+The answer is the city with the index 2 
+- Information of the city 2 -
+-> Number of current patients : 123
+-> Has recovered : 0
+-> Was dead : 3
+
+Query ? 4 8 :
+The answer is the city with the index 3 
+- Information of the city 3 -
+-> Number of current patients : 329
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 7 :
+The city with the highest death is city with the index 2
+Quantity: 3 people
+
+Query ? 4 8 :
+The answer is the city with the index 3 
+- Information of the city 3 -
+-> Number of current patients : 329
+-> Has recovered : 0
+-> Was dead : 0
+
+Query ? 4 2 :
+The answer is the city with the index 17 
+- Information of the city 17 -
+-> Number of current patients : 62
+-> Has recovered : 0
+-> Was dead : 0
+
