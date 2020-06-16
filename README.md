@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/datbeohbbh/Project_Coronavirus_Statistics.svg?token=VqGsypyCHz17GyyQV5VE&branch=master)](https://travis-ci.com/datbeohbbh/Project_Coronavirus_Statistics)
+
 # Project Coronavirus Statistics
 
 #### Table of Contents
